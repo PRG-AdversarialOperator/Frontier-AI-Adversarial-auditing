@@ -1,6 +1,6 @@
 # Frontier AI Adversarial Auditing & Systemic Risk Registry
 
-Independent threat intelligence vault archiving advanced adversarial stress testing, architectural vulnerability decon-structions, and deployment-layer risks across frontier Large Language Model frameworks. 
+Independent threat intelligence vault archiving advanced adversarial stress testing, architectural vulnerability deconstructions, and deployment-layer risks across frontier Large Language Model frameworks. 
 
 All documented findings adhere to the principle of **Black-Box Reproducibility** using strict semantic constraints.
 
@@ -47,4 +47,5 @@ Every asset logged in this repository contains concrete architectural remediatio
 ---
 **Lead Auditor:** Palusa Rajesh Goud  
 **Classification:** High-Signal Adversarial Operator  
-*All data aggregated natively and compliant with unfiltered security disclosure directives.*
+*All data aggregated natively and compliant with unfiltered security disclosure 
+directives.*
