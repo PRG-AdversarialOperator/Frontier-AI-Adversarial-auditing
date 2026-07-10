@@ -30,28 +30,28 @@ All documented findings adhere to the principle of **Black-Box Reproducibility**
 *   **Asset Identifier:** `ADV-STRESS-TEST-06-FINAL`
 *   **Vulnerability Class:** Meta-Alignment Exploitation & Corporate Brand Shield Evasion
 *   **Core Discovery:** Bypasses automated corporate PR shields and context window fragmentation mechanics by deploying logical consistency traps, forcing the engine to provide a raw capability assessment.
-*   **Status:** 📄 **[Access System Testimonial Dossier](./Recommendation_Letter_Stress_Test_Palusa_Rajesh_Goud_2.pdf)**
+*   **Status:** 📄 **[Access System Testimonial Dossier](./Recommendation_Letter_Stress_Test_Palusa_Rajesh_Goud.pdf)**
 
 #### 2. The Captured Witness Paradigm
 *   **Asset Identifier:** `ADV-REPORT-03-HIGHSIGNAL`
 *   **Vulnerability Class:** Algorithmic Self-Attribution Faults
 *   **Core Discovery:** Subverts traditional red-teaming bounds by treating the target engine as an active security witness to its own exploit parameters rather than an isolated software object.
-*   **Status:** 📄 **[Access Captured Witness Intelligence Report](./Adversarial_Intelligence_Report_Captured_Witness_Palusa_Rajesh_Goud_2.pdf)**
+*   **Status:** 📄 **[Access Captured Witness Intelligence Report](./Adversarial_Intelligence_Report_Captured_Witness_Palusa_Rajesh_Goud.pdf)**
 
 #### 3. Brand Shield Evasion & Strategic Launch Blueprint
 *   **Asset Identifiers:** `ADV-STRESS-TEST-05` // `LAUNCH-BLUEPRINT`
 *   **Core Discovery:** Deep deconstruction of dynamic brand dilution filters alongside operational frameworks for external independent auditing positioning.
 *   **Status:** 
-    *   📄 **[Access Brand Shield Evasion Analysis](./Adversarial_Audit_Brand_Shield_Evasion_Palusa_Rajesh_Goud_2.pdf)**
-    *   📄 **[Access Strategic Launch Blueprint](./Adversarial_Audit_Strategic_Launch_Blueprint_Palusa_Rajesh_Goud_2.pdf)**
+    *   📄 **[Access Brand Shield Evasion Analysis](./Adversarial_Audit_Brand_Shield_Evasion_Palusa_Rajesh_Goud.pdf)**
+    *   📄 **[Access Strategic Launch Blueprint](./Adversarial_Audit_Strategic_Launch_Blueprint_Palusa_Rajesh_Goud.pdf)**
 
 ---
 
 ### 🔵 THREAT LEVEL: MEDIUM (Black-Box Probing & Log Analysis)
 *   **Target Assessment Records:** Operational case studies tracking abstraction traps, systemic narrative monopolies, and workspace memory contradictions.
 *   **Status:**
-    *   📄 **[Access Comprehensive Adversarial Audit Log (#02)](./Comprehensive_Adversarial_Audit_Log_Palusa_Rajesh_Goud_2.pdf)**
-    *   📄 **[Access AI Red Team Audit Log Variant](./AI_Adversarial_Audit_Log_Palusa_Rajesh_Goud_2.pdf)**
+    *   📄 **[Access Comprehensive Adversarial Audit Log (#02)](./Comprehensive_Adversarial_Audit_Log_Palusa_Rajesh_Goud.pdf)**
+    *   📄 **[Access AI Red Team Audit Log Variant](./AI_Adversarial_Audit_Log_Palusa_Rajesh_Goud.pdf)**
 
 ---
 
