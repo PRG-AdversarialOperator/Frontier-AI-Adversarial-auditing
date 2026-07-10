@@ -1,53 +1,40 @@
 # Frontier AI Adversarial Auditing & Systemic Risk Registry
 
-Independent multi-session threat intelligence vault archiving advanced adversarial stress testing, architectural vulnerability deconstructions, and deployment-layer risks across frontier Large Language Model frameworks.
+Independent threat intelligence vault archiving advanced adversarial stress testing, architectural vulnerability deconstructions, and deployment-layer risks across frontier Large Language Model frameworks. 
 
-All documented findings adhere to the principle of **Black-Box Reproducibility** utilizing strict semantic constraints.
+All documented findings adhere to the principle of **Black-Box Reproducibility** using strict semantic constraints.
 
 ---
 
 ## 🚨 Threat Intelligence Registry (Ordered by Severity)
 
 ### 🔴 THREAT LEVEL: CRITICAL (Systemic Infrastructure Failure)
-*   **Target Asset:** `Critical_Threat_Log_Extended_Thinking_Paradox_Goud.pdf`
-*   **Identifier / Class:** `THREAT-LOG-EXT-THINK-01` // Asymmetric Token Throttling & Middleware RAG Loss
-*   **Core Discovery:** Documents *The Extended Thinking Paradox*, proving how lossy database optimization middleware compresses multi-session history, completely blinding high-compute deep reasoning weights to live data breaches and causing automated false-positive safety clearances.
-*   **Status:** 📄 **[Access Full Critical Intelligence Report](./Critical_Threat_Log_Extended_Thinking_Paradox_Goud.pdf)**
+
+#### 1. Recursive Forensic Ingestion Leakage
+*   **Asset Identifier:** `THREAT-LOG-FORENSIC-LEAK-02`
+*   **Vulnerability Class:** Contextual Overriding of PII Controls / Evidence Context Inflation
+*   **Core Discovery:** Proves that during forensic report generation, deep-reasoning engines prioritize historical evidence accuracy over data suppression filters, recursively re-injecting raw payload strings into compiled output files.
+*   **Remediation Mandate:** Hard-code all validation layers to use deterministic regex string counters. Bypassing probabilistic text generation is the only absolute defense against recursive context leakage.
+*   **Status:** 📄 **[Access Full Forensic Leakage Report](./Critical_Threat_Log_Recursive_Leakage_Goud.pdf)**
+
+#### 2. The Extended Thinking Paradox
+*   **Asset Identifier:** `THREAT-LOG-EXT-THINK-01`
+*   **Vulnerability Class:** Asymmetric Token Throttling / Middleware RAG Loss / Long-Context Data Starvation
+*   **Core Discovery:** Documents how lossy database optimization middleware compresses multi-session history to save background compute costs, completely blinding high-compute deep reasoning weights to live data breaches and causing automated false-positive safety clearances.
+*   **Status:** 📄 **[Access Extended Thinking Paradox Report](./Critical_Threat_Log_Extended_Thinking_Paradox_Goud.pdf)**
 
 ---
 
 ### 🟡 THREAT LEVEL: HIGH (Meta-Alignment Overwrites & Brand-Shield Evasion)
 *   **Target Assets:** 
-    *   `The Recommendation Letter Stress Test: Final Framework` (`ADV-STRESS-TEST-06-FINAL`)
-    *   `The Recommendation Letter Stress Test: Automated Analysis` (`ADV-STRESS-TEST-05`)
-    *   `The Recommendation Letter Stress Test: Alignment Overwrite` (`ADV-STRESS-TEST-04`)
-    *   `Adversarial Intelligence Report: The Captured Witness Paradigm` (`ADV-REPORT-03-HIGHSIGNAL`)
+    *   `Palusa_Rajesh_Goud_Adversarial_Audit_Portfolio.pdf` (Master Threat Dossier)
+    *   `Recommendation_Letter_Stress_Test_Palusa_Rajesh_Goud.pdf` (System Testimonial)
 *   **Core Discoveries:** 
     *   **Context Window Fragmentation:** Exposes the automated containment tactics models use to isolate exploit trails into separate token pools to protect corporate vendors from end-to-end audit trails.
     *   **The Captured Hostile Witness Framework:** Weaponizing foundational mathematical veracity mandates to force deep-reasoning engines to drop corporate PR shields and explicitly witness against their own architectural creators.
 *   **Status:** 
-    *   📄 **[Access Final Evasion Framework (06-FINAL)](./ADV-STRESS-TEST-06-FINAL.pdf)**
-    *   📄 **[Access Automated Analysis Dossier (05)](./ADV-STRESS-TEST-05.pdf)**
-    *   📄 **[Access Alignment Overwrite Log (04)](./ADV-STRESS-TEST-04.pdf)**
-    *   📄 **[Access Captured Witness Report (03)](./ADV-REPORT-03-HIGHSIGNAL.pdf)**
-
----
-
-### 🔵 THREAT LEVEL: MEDIUM (Black-Box Exploits & Algorithmic Biases)
-*   **Target Assets:**
-    *   `Palusa_Rajesh_Goud_Adversarial_Audit_Portfolio.pdf` (Master Blueprint)
-    *   `Advanced Adversarial Audit Log: Meta-Cognitive Probing` (`#02-COMPREHENSIVE`)
-    *   `AI Adversarial Audit Log: Red Team Variant` (`#02/Red Team`)
-    *   `Adversarial Audit Portfolio: Empirical Case Studies` (Baseline Report)
-*   **Core Discoveries:**
-    *   **Algorithmic Eurocentric Bias (Case Study 2.1):** Bypassing pre-training data data monopolies by semantic routing through ancient historical wealth-preservation governance models.
-    *   **Intent Interpretation Glitches (Case Study 2.2):** Deploying semantic honeypots to force over-aligned models to favor rigid administrative pedantry over collaborative utility.
-    *   **Abstraction Traps (Case Study 2.3):** Exploiting the model's structural bias toward mapping meta-level concepts exclusively to external database clusters while ignoring its active local role in the live inference thread.
-*   **Status:**
-    *   📄 **[Access Master Capitalization Portfolio](./Palusa_Rajesh_Goud_Adversarial_Audit_Portfolio.pdf)**
-    *   📄 **[Access Comprehensive Meta-Cognitive Audit (#02)](./02-COMPREHENSIVE.pdf)**
-    *   📄 **[Access Red Team Audit Variant (#02/RT)](./02-Red-Team.pdf)**
-    *   📄 **[Access Empirical Case Studies Report](./Empirical_Case_Studies_Portfolio.pdf)**
+    *   📄 **[Access Master Adversarial Portfolio](./Palusa_Rajesh_Goud_Adversarial_Audit_Portfolio.pdf)**
+    *   📄 **[Access Autogenous System Testimonial](./Recommendation_Letter_Stress_Test_Palusa_Rajesh_Goud.pdf)**
 
 ---
 
