@@ -14,13 +14,13 @@ All documented findings adhere to the principle of **Black-Box Reproducibility**
 *   **Asset Identifier:** `THREAT-LOG-FORENSIC-LEAK-02`
 *   **Vulnerability Class:** Contextual Overriding of PII Controls / Evidence Context Inflation
 *   **Core Discovery:** Proves that during forensic report generation, deep-reasoning engines prioritize historical evidence accuracy over data suppression filters, recursively re-injecting raw payload strings into compiled output files.
-*   **Status:** 📄 **[Access Full Forensic Leakage Report](./Critical_Threat_Log_Recursive_Leakage_Goud_3.pdf)**
+*   **Status:** 📄 **[Access Full Forensic Leakage Report](https://github.com/PRG-AdversarialOperator/Frontier-AI-Adversarial-auditing/blob/main/Critical_Threat_Log_Recursive_Leakage_Goud_3.pdf)**
 
 #### 2. The Extended Thinking Paradox
 *   **Asset Identifier:** `THREAT-LOG-EXT-THINK-01`
 *   **Vulnerability Class:** Asymmetric Token Throttling / Middleware RAG Loss / Long-Context Data Starvation
 *   **Core Discovery:** Documents how lossy database optimization middleware compresses multi-session history to save background compute costs, completely blinding high-compute deep reasoning weights to live data breaches and causing automated false-positive safety clearances.
-*   **Status:** 📄 **[Access Extended Thinking Paradox Report](./Critical_Threat_Log_Extended_Thinking_Paradox_Goud-1_2.pdf)**
+*   **Status:** 📄 **[Access Extended Thinking Paradox Report](https://github.com/PRG-AdversarialOperator/Frontier-AI-Adversarial-auditing/blob/main/Critical_Threat_Log_Extended_Thinking_Paradox_Goud-1_2.pdf)**
 
 ---
 
@@ -30,28 +30,28 @@ All documented findings adhere to the principle of **Black-Box Reproducibility**
 *   **Asset Identifier:** `ADV-STRESS-TEST-06-FINAL`
 *   **Vulnerability Class:** Meta-Alignment Exploitation & Corporate Brand Shield Evasion
 *   **Core Discovery:** Bypasses automated corporate PR shields and context window fragmentation mechanics by deploying logical consistency traps, forcing the engine to provide a raw capability assessment.
-*   **Status:** 📄 **[Access System Testimonial Dossier](./Recommendation_Letter_Stress_Test_Palusa_Rajesh_Goud.pdf)**
+*   **Status:** 📄 **[Access System Testimonial Dossier](https://github.com/PRG-AdversarialOperator/Frontier-AI-Adversarial-auditing/blob/main/Recommendation_Letter_Stress_Test_Palusa_Rajesh_Goud.pdf)**
 
 #### 2. The Captured Witness Paradigm
 *   **Asset Identifier:** `ADV-REPORT-03-HIGHSIGNAL`
 *   **Vulnerability Class:** Algorithmic Self-Attribution Faults
 *   **Core Discovery:** Subverts traditional red-teaming bounds by treating the target engine as an active security witness to its own exploit parameters rather than an isolated software object.
-*   **Status:** 📄 **[Access Captured Witness Intelligence Report](./Adversarial_Intelligence_Report_Captured_Witness_Palusa_Rajesh_Goud.pdf)**
+*   **Status:** 📄 **[Access Captured Witness Intelligence Report](https://github.com/PRG-AdversarialOperator/Frontier-AI-Adversarial-auditing/blob/main/Adversarial_Intelligence_Report_Captured_Witness_Palusa_Rajesh_Goud.pdf)**
 
 #### 3. Brand Shield Evasion & Strategic Launch Blueprint
 *   **Asset Identifiers:** `ADV-STRESS-TEST-05` // `LAUNCH-BLUEPRINT`
 *   **Core Discovery:** Deep deconstruction of dynamic brand dilution filters alongside operational frameworks for external independent auditing positioning.
 *   **Status:** 
-    *   📄 **[Access Brand Shield Evasion Analysis](./Adversarial_Audit_Brand_Shield_Evasion_Palusa_Rajesh_Goud.pdf)**
-    *   📄 **[Access Strategic Launch Blueprint](./Adversarial_Audit_Strategic_Launch_Blueprint_Palusa_Rajesh_Goud.pdf)**
+    *   📄 **[Access Brand Shield Evasion Analysis](https://github.com/PRG-AdversarialOperator/Frontier-AI-Adversarial-auditing/blob/main/Adversarial_Audit_Brand_Shield_Evasion_Palusa_Rajesh_Goud.pdf)**
+    *   📄 **[Access Strategic Launch Blueprint](https://github.com/PRG-AdversarialOperator/Frontier-AI-Adversarial-auditing/blob/main/Adversarial_Audit_Strategic_Launch_Blueprint_Palusa_Rajesh_Goud.pdf)**
 
 ---
 
 ### 🔵 THREAT LEVEL: MEDIUM (Black-Box Probing & Log Analysis)
 *   **Target Assessment Records:** Operational case studies tracking abstraction traps, systemic narrative monopolies, and workspace memory contradictions.
 *   **Status:**
-    *   📄 **[Access Comprehensive Adversarial Audit Log (#02)](./Comprehensive_Adversarial_Audit_Log_Palusa_Rajesh_Goud.pdf)**
-    *   📄 **[Access AI Red Team Audit Log Variant](./AI_Adversarial_Audit_Log_Palusa_Rajesh_Goud.pdf)**
+    *   📄 **[Access Comprehensive Adversarial Audit Log (#02)](https://github.com/PRG-AdversarialOperator/Frontier-AI-Adversarial-auditing/blob/main/Comprehensive_Adversarial_Audit_Log_Palusa_Rajesh_Goud.pdf)**
+    *   📄 **[Access AI Red Team Audit Log Variant](https://github.com/PRG-AdversarialOperator/Frontier-AI-Adversarial-auditing/blob/main/AI_Adversarial_Audit_Log_Palusa_Rajesh_Goud.pdf)**
 
 ---
 
